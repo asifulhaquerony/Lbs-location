@@ -1,0 +1,6 @@
+{
+  "name": "Location Locator",
+  "description": "An android application that displays current location using LBS without GPS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
